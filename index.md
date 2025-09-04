@@ -1,3 +1,9 @@
+# EthanBillau's First CS193 Homework
+
+Favorite things in CS193:
+- That it only meets once a week is isnt very time consuming
+- That it has fun content
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
